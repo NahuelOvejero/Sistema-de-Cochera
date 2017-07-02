@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B811C67E-82EB-4BD9-97CC-CD1B75A1D406}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Main</RootNamespace>
+    <AssemblyName>Main</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Usuario\Desktop\Final Laboratorio II - Sistema de Cochera\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Main.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6070FFAEF97FE136B5D18165B9CF6050B1805878</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Main_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms Alquiler\FrmAlquiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Alquiler\FrmAlquiler.Designer.cs">
+      <DependentUpon>FrmAlquiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Alquiler\FrmNewAlquiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Alquiler\FrmNewAlquiler.Designer.cs">
+      <DependentUpon>FrmNewAlquiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Alquiler\Selecciones\FrmSeleccionLote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Alquiler\Selecciones\FrmSeleccionLote.Designer.cs">
+      <DependentUpon>FrmSeleccionLote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Alquiler\Selecciones\FrmSeleccionTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Alquiler\Selecciones\FrmSeleccionTarifa.Designer.cs">
+      <DependentUpon>FrmSeleccionTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Alquiler\Selecciones\FrmSeleccionVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Alquiler\Selecciones\FrmSeleccionVehiculo.Designer.cs">
+      <DependentUpon>FrmSeleccionVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmCambioDueño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmCambioDueño.Designer.cs">
+      <DependentUpon>FrmCambioDueño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmDueño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmDueño.designer.cs">
+      <DependentUpon>FrmDueño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Lote\FrmLotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Lote\FrmLotes.Designer.cs">
+      <DependentUpon>FrmLotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Tarifas\FrmModTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Tarifas\FrmModTarifa.Designer.cs">
+      <DependentUpon>FrmModTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Tarifas\FrmNewTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Tarifas\FrmNewTarifa.Designer.cs">
+      <DependentUpon>FrmNewTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadisticas.Designer.cs">
+      <DependentUpon>FrmEstadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmModInq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmModInq.Designer.cs">
+      <DependentUpon>FrmModInq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmModVeh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmModVeh.Designer.cs">
+      <DependentUpon>FrmModVeh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmNewInquilino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmNewInquilino.Designer.cs">
+      <DependentUpon>FrmNewInquilino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmNewVehics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms DueñosVehiculos\FrmNewVehics.Designer.cs">
+      <DependentUpon>FrmNewVehics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Tarifas\FrmMainTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Tarifas\FrmMainTarifa.Designer.cs">
+      <DependentUpon>FrmMainTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms Alquiler\FrmAlquiler.resx">
+      <DependentUpon>FrmAlquiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Alquiler\FrmNewAlquiler.resx">
+      <DependentUpon>FrmNewAlquiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Alquiler\Selecciones\FrmSeleccionLote.resx">
+      <DependentUpon>FrmSeleccionLote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Alquiler\Selecciones\FrmSeleccionTarifa.resx">
+      <DependentUpon>FrmSeleccionTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Alquiler\Selecciones\FrmSeleccionVehiculo.resx">
+      <DependentUpon>FrmSeleccionVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms DueñosVehiculos\FrmCambioDUeño.resx">
+      <DependentUpon>FrmCambioDueño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms DueñosVehiculos\FrmDueño.resx">
+      <DependentUpon>FrmDueño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Lote\FrmLotes.resx">
+      <DependentUpon>FrmLotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Tarifas\FrmModTarifa.resx">
+      <DependentUpon>FrmModTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Tarifas\FrmNewTarifa.resx">
+      <DependentUpon>FrmNewTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadisticas.resx">
+      <DependentUpon>FrmEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms DueñosVehiculos\FrmModInq.resx">
+      <DependentUpon>FrmModInq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms DueñosVehiculos\FrmModVeh.resx">
+      <DependentUpon>FrmModVeh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms DueñosVehiculos\FrmNewInquilino.resx">
+      <DependentUpon>FrmNewInquilino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms DueñosVehiculos\FrmNewVehics.resx">
+      <DependentUpon>FrmNewVehics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Tarifas\FrmMainTarifa.resx">
+      <DependentUpon>FrmMainTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Main_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MisClass\MisClass.csproj">
+      <Project>{DF3A291C-799A-4190-9F73-8932BBB79A4D}</Project>
+      <Name>MisClass</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o_1470084271_3000be9bd958eb2bb5fbc722555b7774.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alquileres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dueños y autos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lotes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tarifas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estadisticas.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

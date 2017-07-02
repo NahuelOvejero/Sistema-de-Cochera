@@ -1,0 +1,1 @@
+Copiar la CARPETA "Sistema de Cochera", y pegar dentro del disco C:/ , para visualizar los registros de prueba.

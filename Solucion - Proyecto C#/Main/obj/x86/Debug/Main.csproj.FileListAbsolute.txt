@@ -1,0 +1,56 @@
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Principal.FrmDueño.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Principal.FrmInicio.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Principal.FrmNewInquilino.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\bin\Debug\Main.exe
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\bin\Debug\Main.pdb
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\bin\Debug\MisClass.dll
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\bin\Debug\MisClass.pdb
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.exe
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.pdb
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmModInq.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmNewVehics.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmModVeh.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmCambioDueño.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Tarifas.frmMainTarifa.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Tarifas.FrmNewTarifa.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Tarifas.FrmModTarifa.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Lote.FrmLotes.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.FrmAlquiler.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.FrmNewAlquiler.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.Selecciones.FrmSeleccionVehiculo.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.Selecciones.FrmSeleccionLote.resources
+C:\Users\Lucas\Desktop\Lucas\Cochera Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.Selecciones.FrmSeleccionTarifa.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\bin\Debug\Main.exe
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\bin\Debug\Main.pdb
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\bin\Debug\MisClass.dll
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\bin\Debug\MisClass.pdb
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.FrmAlquiler.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.FrmNewAlquiler.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.Selecciones.FrmSeleccionLote.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.Selecciones.FrmSeleccionTarifa.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Alquiler.Selecciones.FrmSeleccionVehiculo.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmCambioDueño.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Principal.FrmDueño.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Lote.FrmLotes.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Tarifas.FrmModTarifa.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Tarifas.FrmNewTarifa.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmEstadisticas.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Principal.FrmInicio.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmModInq.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmModVeh.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Principal.FrmNewInquilino.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.FrmNewVehics.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Forms_Tarifas.FrmMainTarifa.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.Properties.Resources.resources
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.exe
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.pdb
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\bin\Debug\Main.exe.manifest
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\bin\Debug\Main.application
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.TrustInfo.xml
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.exe.manifest
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\Main\obj\x86\Debug\Main.application

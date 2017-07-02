@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\Lucas\Sistema de viajes - Nahuel Ovejero\MisClass\bin\Debug\MisClass.dll
+C:\Users\Lucas\Desktop\Lucas\Sistema de viajes - Nahuel Ovejero\MisClass\bin\Debug\MisClass.pdb
+C:\Users\Lucas\Desktop\Lucas\Sistema de viajes - Nahuel Ovejero\MisClass\obj\Debug\MisClass.dll
+C:\Users\Lucas\Desktop\Lucas\Sistema de viajes - Nahuel Ovejero\MisClass\obj\Debug\MisClass.pdb
+C:\Users\Lucas\Desktop\Lucas\Sistema de viajes - Nahuel Ovejero\MisClass\obj\Debug\MisClass.csprojResolveAssemblyReference.cache
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\MisClass\bin\Debug\MisClass.dll
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\MisClass\bin\Debug\MisClass.pdb
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\MisClass\obj\Debug\MisClass.dll
+D:\Downloads\Sistema de Cochera - Nahuel Ovejero\MisClass\obj\Debug\MisClass.pdb
