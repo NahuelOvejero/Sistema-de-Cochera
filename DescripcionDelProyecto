@@ -1,0 +1,20 @@
+Sistema de Cochera – Nahuel Ovejero:
+
+
+El presente sistema de cocheras, desarrollado como proyecto final para la materia Laboratorio de programación II, cursada en el año 2015, cuenta con las siguientes funcionalidades:
+
+Alta, Baja y Modificación de Inquilinos, y de sus Vehículos asociados, a través de una relación de uno a muchos (un dueño, muchos vehículos).
+
+Alta, Baja y Modificación de Lotes y Tarifas, pudiendo asignar a cada Lote y Tarifa, el tipo de Vehículo que soporta (Auto, Moto, Camioneta, Camión). Las tarifas pueden tener más de un tipo, incluso los 4 si fuera requerido.
+Creación de Alquileres, calculando el precio actual/total, según la fecha de entrada y de salida, permitiendo crear alquileres con salida indefinida, o con una salida fija. Al definirle una fecha de salida, habilita la opción de marcar el alquiler como pre-pago. En caso de que  el Alquiler se cancele antes de lo estipulado, se calculará (según la tarifa seleccionada) el costo del alquiler hasta esa fecha, y si ya se encontraba pago, el vuelto que le corresponde al socio.
+Al finalizar el alquiler, se generara automáticamente una factura interna, la cual contendrá el registro de las ganancias, la fecha del alquiler, tipo de vehículo, y demás datos, que nos servirán para calcular y evaluar los días/meses/años con más ventas, los Tipos de Vehículos que más Alquileres generan, el total recaudado en el día, y demás datos estadísticos, pudiendo analizar rápidamente la información a través de cómodos gráficos de barra.
+La pantalla principal cuenta con un visor en el cual podemos monitorear los alquileres que tienen salida para el día de la fecha, además de datos generales sobre nuestro sistema y cantidad de registros.
+Los botones cuentan con colores descriptivos: El verde para dar de alta/crear. El rojo para dar de baja, y el azul para operaciones.
+El CD cuenta con registros de pruebas,  
+
+
+Cumpliendo con las consideraciones planteadas por los profesores, el alcance del proyecto podría ampliarse y sumar una amplia cantidad de funcionalidades (sistema de log in con distintos permisos, reservas futuras, sistema de seña/pago por cuotas, etc).
+
+
+
+Nahuel Ovejero
